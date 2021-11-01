@@ -1,8 +1,8 @@
 {
     "name": "gabrielef/php-benchmark",
-    "description": "",
-    "keywords": ["", ""],
-    "homepage": "https://github.com/gabrielef/xxx",
+    "description": "Tiny lib to compare code execution speed",
+    "keywords": ["benchmark", "php"],
+    "homepage": "https://github.com/gabrielef/php-benchmark",
     "license": "MIT",
     "authors": [
         {
